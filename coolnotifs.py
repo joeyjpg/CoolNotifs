@@ -23,6 +23,8 @@ img = Image.open(input_image_path)
 
 Do not ask me how, do not ask me why. All i know is that it's needed to work
 on more than just my machine.
+
+okay i finally fucking did it god DAMN
 """
 
 global script_dir
