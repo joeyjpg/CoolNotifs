@@ -1,8 +1,8 @@
 # Coolnotifs!
 
-Yeah, coolnotifs, i guess. Lets you make some sick ass notifications with python.
+Yeah, coolnotifs. Lets you make some sick ass notifications with python.
 
-I still have to implement ellipsis, i guess, but you could probably just modify it to have that yourself if you really need it already.
+I still have to implement ellipsis, but you could probably just modify it to have that yourself if you really need it already.
 
 # Usage:
 
