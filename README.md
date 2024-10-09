@@ -6,23 +6,9 @@ I still have to implement ellipsis, but you could probably just modify it to hav
 
 # Usage:
 
-Very simple!
-
-So, i'd reccomend you do
-
 from coolnotifs import sendnotif
+sendnotif("Important!", "This is a notification.", "/home/burger/burger.png")
 
-so you can just do 
+should do.
 
-sendnotif("Attention!", "This is a cool notification!", "coolimage.png")
-
-but, you could also just do 
-import coolnotif
-
-and do
-
-coolnotif.sendnotif("Attention!", "This is a cool notification!", "coolimage.png")
-
-if you'd prefer that.
-
-I won't be documenting the other functions you can find in there, as they aren't really meant to be used outside of the "library" itself.
+To change the default image (what shows if you don't supply an image), just overwrite the Default.png file with a different, preferably square image.
